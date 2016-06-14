@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#수정
+
 int main()
 {
   printf("hello\n");
